@@ -1,4 +1,9 @@
 streamlit
-opencv-python
+opencv-python-headless
 numpy
-Pillow
+pandas
+fastapi
+uvicorn
+redis
+scikit-image
+requests
